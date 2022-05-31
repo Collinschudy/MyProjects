@@ -15,9 +15,9 @@ body{
     background-color: #fff;
     border-radius: 1em;
     position:relative;
-    /* top:8em; */
     margin:6.85em auto;
     padding:1em 0 1.5em 0;
+    border: 1px red solid;
    
 
 }
